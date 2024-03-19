@@ -144,7 +144,7 @@ useEffect(() => {
     <div>
        
        <div class="container mt-4" >
-       <h1 class="text-center">Patients Registration</h1>
+       <h1 class="text-center">Patients Registrations</h1>
         <div class="row justify-content-center pt-3">
           <div class="col-lg-6">
           <form>
